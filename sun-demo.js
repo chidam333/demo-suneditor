@@ -87,5 +87,5 @@ document.addEventListener('DOMContentLoaded', function() {
         plugins: plugins,
         codeMirror: CodeMirror,
     });
-    editor.setContents("<p>Sample text</p>");
+    editor.setContents("<p>This is sun editor demo for ballon always</p>");
 });
